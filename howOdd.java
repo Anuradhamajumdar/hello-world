@@ -10,4 +10,3 @@ public static void howOdd() {
  sum += i;
  }
  }
-Submission 
